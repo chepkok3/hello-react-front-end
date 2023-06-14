@@ -112,6 +112,6 @@ Feel free to check the [issues page](https://github.com/chepkok3/hello-react-fro
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/chepkok3/hello-react-front-end/blob/front-end/MIT%20License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
